@@ -12,7 +12,7 @@
         "php": "^7.2.5|^8.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^7.0",
+        "orchestra/testbench": "^8.5",
         "phpunit/phpunit": "^9.5.10",
         "jiannei/laravel-enum": "^3.0"
     },
